@@ -1,5 +1,5 @@
 from tkinter import *
-
+an
 w =800
 n =500
 player_size =100
