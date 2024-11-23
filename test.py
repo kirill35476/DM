@@ -13,6 +13,7 @@ def key_handler(event):
 window= Tk()
 window.title('догони меня если сможешь')
 canvas = Canvas(window,width= w,height=n,bg = 'white')
+canvas.pack()
 
 player1_id =
 finish_id =
